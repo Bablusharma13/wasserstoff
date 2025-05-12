@@ -18,6 +18,6 @@ Each tab sends/receives text changes using `BroadcastChannel`. Username is store
 
 # Run Locally
 git clone [https://github.com/yourusername/collab-editor.git](https://github.com/Bablusharma13/wasserstoff.git)
-cd collab-editor
+cd wasserstoff
 npm install
 npm run dev
